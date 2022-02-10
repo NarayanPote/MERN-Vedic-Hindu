@@ -11,8 +11,8 @@ this application consist of two login panel one is admin panel and another is te
 5) also admin can add different facilities like parking , different types of ritual.
 
 - Temple login panel.
-1)Temple information - adding temple images and it's information.
-2)Daily Puja Schedule.
+1) Temple information - adding temple images and it's information.
+2) Daily Puja Schedule.
 3) Add Pujari/Archaka.
 4) List of Pujari.   
 4) Puja perform by Temple pandits at Office / Residence.
